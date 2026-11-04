@@ -151,6 +151,49 @@ document.querySelectorAll('[data-filter]').forEach(b=>b.addEventListener('click'
   card.style.display=(b.dataset.filter==='all'||card.dataset.kind===b.dataset.filter)?'block':'none';
  });
 }));
+ async function loadObjectives(){
+ const feed=document.getElementById('feed');
+ try{
+  const response=await fetch('./data.json?ts='+Date.now(),{cache:'no-store'});
+  if(!response.ok) throw new Error('Données indisponibles');
+  const data=await response.json();
+  const items=(data.objectives||[]).filter(o=>o.status==='Actif'&&o.title&&o.title!=='Find objectives');
+
+  feed.querySelectorAll('[data-kind="official"]').forEach(card=>card.remove());
+
+  const rumour=feed.querySelector('[data-kind="rumour"]');
+  items.forEach(o=>{
+   const card=document.createElement('article');
+   card.className='card';
+   card.dataset.kind='official';
+
+   const meta=[(o.tasks||0)+' tâches',...(o.rewards||[]),'Fin : '+(o.expiry||'Date inconnue')];
+   const esc=v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+   card.innerHTML=`
+    <div class="row">
+     <span class="tag official">OBJECTIF ACTIF</span>
+     <span class="muted">${esc(o.category||'Objectif')}</span>
+    </div>
+    <h3>${esc(o.title)}</h3>
+    <p class="muted">Objectif actif sur FC 27 Ultimate Team.</p>
+    <div class="meta">${meta.map(x=>'<span class="pill">'+esc(x)+'</span>').join('')}</div>
+   `;
+   feed.insertBefore(card,rumour);
+  });
+
+  const count=document.querySelector('#home .stats .stat b');
+  if(count) count.textContent=items.length;
+
+  const note=document.querySelector('#home .note');
+  if(note) note.textContent='Objectifs et récompenses actualisés automatiquement depuis FCData. Dernière actualisation : '+new Date(data.updated).toLocaleString('fr-FR')+'.';
+
+ }catch(error){
+  console.error(error);
+  console.error('Impossible de charger data.json');
+ }
+}
+loadObjectives();
 </script>
 </body>
 </html>
