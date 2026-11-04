@@ -14,55 +14,94 @@ response = requests.get(
     timeout=30
 )
 response.raise_for_status()
-
 soup = BeautifulSoup(response.text, "html.parser")
 
-lines = [
-    re.sub(r"\s+", " ", line).strip()
-    for line in soup.get_text("\n").splitlines()
-    if line.strip()
-]
-
 objectives = []
-category = "Objectif"
-status = "Actif"
+seen = set()
 
-for i, line in enumerate(lines):
-    if line.startswith("Active "):
-        status = "Actif"
-        category = line.replace("Active ", "").strip()
+for heading in soup.find_all(["h2", "h3", "h4"]):
+    title = re.sub(r"\s+", " ", heading.get_text(" ", strip=True)).strip()
 
-    elif line.startswith("Expired "):
-        status = "Expiré"
+    if not title or title.lower() in {"fc 27 objectives", "group rewards"}:
+        continue
 
-    match = re.search(r"(\d+)\s+tasks?\s+(.+)", line, re.I)
+    card = None
 
-    if match and status == "Actif":
-        title = lines[i - 2] if i >= 2 else "Objectif"
+    for parent in heading.parents:
+        if getattr(parent, "name", None) in {"body", "html"}:
+            break
 
-        rewards = []
+        block_text = re.sub(r"\s+", " ", parent.get_text(" ", strip=True))
 
-        if i + 1 < len(lines) and lines[i + 1] == "Group rewards":
-            for reward in lines[i + 2:i + 8]:
-                if reward == "View tasks and rewards":
-                    break
-                rewards.append(reward)
+        if (
+            re.search(r"\b\d+\s+tasks?\b", block_text, re.I)
+            and "Group rewards" in block_text
+            and "View tasks and rewards" in block_text
+        ):
+            card = parent
+            break
 
-        objectives.append({
-            "title": title,
-            "category": category,
-            "status": status,
-            "tasks": int(match.group(1)),
-            "expiry": match.group(2),
-            "rewards": rewards
-        })
+    if card is None:
+        continue
+
+    card_text = re.sub(r"\s+", " ", card.get_text(" ", strip=True))
+
+    task_match = re.search(
+        r"\b(\d+)\s+tasks?\s+(\d{1,2}\s+[A-Za-zÀ-ÿ]+\s+\d{4},\s*\d{2}:\d{2})",
+        card_text,
+        re.I
+    )
+
+    if not task_match or title in seen:
+        continue
+
+    status = "Actif"
+    category = "Objectif"
+
+    for previous in heading.find_all_previous(string=True):
+        label = re.sub(r"\s+", " ", str(previous)).strip()
+
+        if label.startswith("Active "):
+            category = label[len("Active "):].strip()
+            break
+
+        if label.startswith("Expired "):
+            status = "Expiré"
+            category = label[len("Expired "):].strip()
+            break
+
+    if status != "Actif":
+        continue
+
+    rewards = []
+    reward_match = re.search(
+        r"Group rewards\s+(.*?)\s+View tasks and rewards",
+        card_text,
+        re.I
+    )
+
+    if reward_match:
+        reward_text = reward_match.group(1).strip()
+        if reward_text:
+            rewards = [reward_text]
+
+    objectives.append({
+        "title": title,
+        "category": category,
+        "status": status,
+        "tasks": int(task_match.group(1)),
+        "expiry": task_match.group(2),
+        "rewards": rewards
+    })
+
+    seen.add(title)
 
 if not objectives:
-    print("DIAGNOSTIC HTTP:", response.status_code)
-    print("TAILLE HTML:", len(response.text))
-    print("TITRE PAGE:", soup.title.get_text(" ", strip=True) if soup.title else "Aucun")
-    print("CONTENU REÇU:", soup.get_text(" ", strip=True)[:1500])
-    raise RuntimeError("Aucun objectif détecté sur FCData.")
+    print("Titres détectés :", [
+        h.get_text(" ", strip=True)
+        for h in soup.find_all(["h2", "h3", "h4"])[:20]
+    ])
+    raise RuntimeError("Aucun objectif actif détecté sur FCData.")
 
 data = {
     "updated": datetime.now(ZoneInfo("Europe/Paris")).isoformat(),
@@ -73,4 +112,4 @@ data = {
 with open("data.json", "w", encoding="utf-8") as file:
     json.dump(data, file, ensure_ascii=False, indent=2)
 
-print(f"{len(objectives)} objectifs récupérés.")
+print(f"{len(objectives)} objectifs actifs récupérés.")
