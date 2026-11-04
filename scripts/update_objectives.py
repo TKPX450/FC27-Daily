@@ -1,4 +1,4 @@
-mport json
+import json
 import re
 from datetime import datetime
 from zoneinfo import ZoneInfo
@@ -42,7 +42,7 @@ if match and status == "Actif":
 rewards = []
 if i + 2 < len(lines) and lines[i + 1] == "Group rewards":
 for reward in lines[i + 2:i + 7]:
-if reward not in ("View tasks and rewards",):
+if reward != "View tasks and rewards":
 rewards.append(reward)
 if len(rewards) >= 3:
 break
@@ -57,9 +57,7 @@ objectives.append({
 })
 
 data = {
-"updated": datetime.now(
-ZoneInfo("Europe/Paris")
-).isoformat(),
+"updated": datetime.now(ZoneInfo("Europe/Paris")).isoformat(),
 "source": URL,
 "objectives": objectives
 }
