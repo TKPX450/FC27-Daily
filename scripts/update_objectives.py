@@ -58,6 +58,10 @@ for i, line in enumerate(lines):
         })
 
 if not objectives:
+    print("DIAGNOSTIC HTTP:", response.status_code)
+    print("TAILLE HTML:", len(response.text))
+    print("TITRE PAGE:", soup.title.get_text(" ", strip=True) if soup.title else "Aucun")
+    print("CONTENU REÇU:", soup.get_text(" ", strip=True)[:1500])
     raise RuntimeError("Aucun objectif détecté sur FCData.")
 
 data = {
