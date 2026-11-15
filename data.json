@@ -1,55 +1,15 @@
 {
-  "updated": "2026-11-14T19:28:23.089383+01:00",
+  "updated": "2026-11-15T19:28:44.690453+01:00",
   "source": "https://fcdata.io/objectives",
   "objectives": [
     {
       "title": "Find objectives",
       "category": "Objectif",
       "status": "Actif",
-      "tasks": 4,
+      "tasks": 2,
       "expiry": "20 Nov 2026, 18:59",
       "rewards": [
-        "2x 85+ Gold Players Pack"
-      ]
-    },
-    {
-      "title": "HOF: Unleashed League Bonus",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 4,
-      "expiry": "20 Nov 2026, 18:59",
-      "rewards": [
-        "2x 85+ Gold Players Pack"
-      ]
-    },
-    {
-      "title": "HOF Unleashed Gallery",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 5,
-      "expiry": "11 Dec 2026, 18:59",
-      "rewards": [
-        "Hall of FUT Premium Badge"
-      ]
-    },
-    {
-      "title": "Ultimate Weekly Play Completionist",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 4,
-      "expiry": "11 Dec 2026, 18:59",
-      "rewards": [
-        "1 Of 3 Hall Of Fut Unleashed Guarantee Pp"
-      ]
-    },
-    {
-      "title": "HOF: Unleashed League",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 10,
-      "expiry": "20 Nov 2026, 18:59",
-      "rewards": [
-        "86 RM LM CAM RW ST LW R 5 ★ 4 Aiden McGeady PAC 91 SHO 82 PAS 85 DRI 88 DEF 44 PHY 67 OBJ 86 Aiden McGeady Hall of FUT Premium Badge"
+        "Nyrb/Gotham Superfan"
       ]
     },
     {
@@ -63,6 +23,36 @@
       ]
     },
     {
+      "title": "HOF Unleashed Gallery",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 5,
+      "expiry": "11 Dec 2026, 18:59",
+      "rewards": [
+        "Hall of FUT Premium Badge"
+      ]
+    },
+    {
+      "title": "HOF: Unleashed League",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 10,
+      "expiry": "20 Nov 2026, 18:59",
+      "rewards": [
+        "86 RM LM CAM RW ST LW R 5 ★ 4 Aiden McGeady PAC 91 SHO 82 PAS 85 DRI 88 DEF 44 PHY 67 OBJ 86 Aiden McGeady Hall of FUT Premium Badge"
+      ]
+    },
+    {
+      "title": "HOF: Unleashed League Bonus",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 4,
+      "expiry": "20 Nov 2026, 18:59",
+      "rewards": [
+        "2x 85+ Gold Players Pack"
+      ]
+    },
+    {
       "title": "Ultimate Weekly Play Objective",
       "category": "Objectif",
       "status": "Actif",
@@ -73,23 +63,13 @@
       ]
     },
     {
-      "title": "Ultimate Scream Evolving - Stage 3 Kit",
+      "title": "Ultimate Weekly Play Completionist",
       "category": "Objectif",
       "status": "Actif",
-      "tasks": 3,
-      "expiry": "3 Dec 2026, 08:59",
+      "tasks": 4,
+      "expiry": "11 Dec 2026, 18:59",
       "rewards": [
-        "7x 82+ Gold Players Pack 400"
-      ]
-    },
-    {
-      "title": "Ultimate Scream Evolving - Stage 1 Kit",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "3 Dec 2026, 08:59",
-      "rewards": [
-        "Ultimate Scream - Kit 2 200"
+        "1 Of 3 Hall Of Fut Unleashed Guarantee Pp"
       ]
     },
     {
@@ -100,16 +80,6 @@
       "expiry": "3 Dec 2026, 08:59",
       "rewards": [
         "1,500"
-      ]
-    },
-    {
-      "title": "Daily Objectives",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 2,
-      "expiry": "19 Nov 2026, 18:59",
-      "rewards": [
-        "10"
       ]
     },
     {
@@ -133,13 +103,33 @@
       ]
     },
     {
-      "title": "The Top 500: FC Pro Open Cup 1",
+      "title": "Ultimate Scream Evolving - Stage 3 Kit",
       "category": "Objectif",
       "status": "Actif",
-      "tasks": 10,
-      "expiry": "17 Nov 2026, 18:59",
+      "tasks": 3,
+      "expiry": "3 Dec 2026, 08:59",
       "rewards": [
-        "Badge Fc Pro Open Trophy"
+        "7x 82+ Gold Players Pack 400"
+      ]
+    },
+    {
+      "title": "Ultimate Scream Evolving - Stage 1 Kit",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "3 Dec 2026, 08:59",
+      "rewards": [
+        "Ultimate Scream - Kit 2 200"
+      ]
+    },
+    {
+      "title": "Daily Objectives",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 2,
+      "expiry": "19 Nov 2026, 18:59",
+      "rewards": [
+        "10"
       ]
     },
     {
@@ -150,6 +140,16 @@
       "expiry": "17 Nov 2026, 18:59",
       "rewards": [
         "2x 84+ Gold Players Pack"
+      ]
+    },
+    {
+      "title": "The Top 500: FC Pro Open Cup 1",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 10,
+      "expiry": "17 Nov 2026, 18:59",
+      "rewards": [
+        "Badge Fc Pro Open Trophy"
       ]
     },
     {
@@ -203,13 +203,13 @@
       ]
     },
     {
-      "title": "FC Heritage Circuit Semi-Pro Event",
+      "title": "Season 2 Daily Knockout Tournament Weekly Play Completionist",
       "category": "Objectif",
       "status": "Actif",
       "tasks": 5,
       "expiry": "3 Dec 2026, 08:59",
       "rewards": [
-        "2x 80+ Gold Players Pack"
+        "84 CDM CB CM R 3 ★ 4 Axel Witsel PAC 79 SHO 74 PAS 84 DRI 80 DEF 83 PHY 84 OBJ 84 Axel Witsel"
       ]
     },
     {
@@ -223,16 +223,6 @@
       ]
     },
     {
-      "title": "FC Heritage Circuit Kick Off Event",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 4,
-      "expiry": "3 Dec 2026, 08:59",
-      "rewards": [
-        "2x 79+ Gold Players Pack"
-      ]
-    },
-    {
       "title": "FC Heritage Circuit Completionist",
       "category": "Objectif",
       "status": "Actif",
@@ -243,33 +233,33 @@
       ]
     },
     {
-      "title": "FC Heritage Circuit World Class Event",
+      "title": "FC Heritage Circuit Kick Off Event",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 4,
+      "expiry": "3 Dec 2026, 08:59",
+      "rewards": [
+        "2x 79+ Gold Players Pack"
+      ]
+    },
+    {
+      "title": "FC Heritage Circuit Semi-Pro Event",
       "category": "Objectif",
       "status": "Actif",
       "tasks": 5,
       "expiry": "3 Dec 2026, 08:59",
       "rewards": [
-        "2x 82+ Gold Players Pack"
+        "2x 80+ Gold Players Pack"
       ]
     },
     {
-      "title": "Season 2 Daily Knockout Tournament Weekly Play Completionist",
+      "title": "FC Heritage Circuit Professional Event",
       "category": "Objectif",
       "status": "Actif",
       "tasks": 5,
       "expiry": "3 Dec 2026, 08:59",
       "rewards": [
-        "84 CDM CB CM R 3 ★ 4 Axel Witsel PAC 79 SHO 74 PAS 84 DRI 80 DEF 83 PHY 84 OBJ 84 Axel Witsel"
-      ]
-    },
-    {
-      "title": "FC Heritage Circuit Tournament",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 7,
-      "expiry": "3 Dec 2026, 08:59",
-      "rewards": [
-        "85 ST CM CAM R 4 ★ 4 Alexis Sánchez PAC 86 SHO 83 PAS 82 DRI 85 DEF 56 PHY 72 OBJ 85 Alexis Sánchez"
+        "2x 81+ Gold Players Pack"
       ]
     },
     {
@@ -283,13 +273,23 @@
       ]
     },
     {
-      "title": "FC Heritage Circuit Professional Event",
+      "title": "FC Heritage Circuit Tournament",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 7,
+      "expiry": "3 Dec 2026, 08:59",
+      "rewards": [
+        "85 ST CM CAM R 4 ★ 4 Alexis Sánchez PAC 86 SHO 83 PAS 82 DRI 85 DEF 56 PHY 72 OBJ 85 Alexis Sánchez"
+      ]
+    },
+    {
+      "title": "FC Heritage Circuit World Class Event",
       "category": "Objectif",
       "status": "Actif",
       "tasks": 5,
       "expiry": "3 Dec 2026, 08:59",
       "rewards": [
-        "2x 81+ Gold Players Pack"
+        "2x 82+ Gold Players Pack"
       ]
     },
     {
@@ -403,13 +403,13 @@
       ]
     },
     {
-      "title": "The Journey Begins",
+      "title": "Transfer Market Mastery",
       "category": "Objectif",
       "status": "Actif",
-      "tasks": 4,
+      "tasks": 6,
       "expiry": "1 Oct 2031, 18:59",
       "rewards": [
-        "3x Premier League Gold Players Pack Anchor"
+        "Stadium Trophy 2x 82+ Gold Players Pack + 1 more rewards"
       ]
     },
     {
@@ -453,13 +453,13 @@
       ]
     },
     {
-      "title": "Transfer Market Mastery",
+      "title": "The Journey Begins",
       "category": "Objectif",
       "status": "Actif",
-      "tasks": 6,
+      "tasks": 4,
       "expiry": "1 Oct 2031, 18:59",
       "rewards": [
-        "Stadium Trophy 2x 82+ Gold Players Pack + 1 more rewards"
+        "3x Premier League Gold Players Pack Anchor"
       ]
     },
     {
@@ -623,6 +623,16 @@
       ]
     },
     {
+      "title": "Bundesliga x Playmobil Kit",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "13 Nov 2026, 18:59",
+      "rewards": [
+        "Bundesliga X Playmobil"
+      ]
+    },
+    {
       "title": "Liga BBVA MX is back",
       "category": "Objectif",
       "status": "Actif",
@@ -640,16 +650,6 @@
       "expiry": "6 Nov 2026, 18:59",
       "rewards": [
         "Ultimate Scream Hero Badge 150 + 1 more rewards"
-      ]
-    },
-    {
-      "title": "Bundesliga x Playmobil Kit",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "13 Nov 2026, 18:59",
-      "rewards": [
-        "Bundesliga X Playmobil"
       ]
     },
     {
@@ -683,16 +683,6 @@
       ]
     },
     {
-      "title": "Phantom Playgrounds",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 7,
-      "expiry": "6 Nov 2026, 18:59",
-      "rewards": [
-        "100 Ultimate Scream Tokens 50"
-      ]
-    },
-    {
       "title": "Ultimate Scream Puzzle Completionist",
       "category": "Objectif",
       "status": "Actif",
@@ -700,6 +690,16 @@
       "expiry": "6 Nov 2026, 18:59",
       "rewards": [
         "100 Ultimate Scream Tokens 100"
+      ]
+    },
+    {
+      "title": "Phantom Playgrounds",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 7,
+      "expiry": "6 Nov 2026, 18:59",
+      "rewards": [
+        "100 Ultimate Scream Tokens 50"
       ]
     },
     {
@@ -753,16 +753,6 @@
       ]
     },
     {
-      "title": "Future Stars",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 4,
-      "expiry": "22 Oct 2026, 08:59",
-      "rewards": [
-        "500"
-      ]
-    },
-    {
       "title": "Future Stardom",
       "category": "Objectif",
       "status": "Actif",
@@ -770,6 +760,16 @@
       "expiry": "23 Oct 2026, 18:59",
       "rewards": [
         "10x 80+ Gold Players Pack"
+      ]
+    },
+    {
+      "title": "Future Stars",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 4,
+      "expiry": "22 Oct 2026, 08:59",
+      "rewards": [
+        "500"
       ]
     },
     {
@@ -813,16 +813,6 @@
       ]
     },
     {
-      "title": "Back to Basics Objective",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 6,
-      "expiry": "16 Oct 2026, 18:59",
-      "rewards": [
-        "84 CAM CDM CM R 3 ★ 3 Wieke Kaptein PAC 79 SHO 80 PAS 82 DRI 84 DEF 78 PHY 79 OBJ 84 Wieke Kaptein 150"
-      ]
-    },
-    {
       "title": "Future Stars Celebration",
       "category": "Objectif",
       "status": "Actif",
@@ -830,6 +820,16 @@
       "expiry": "16 Oct 2026, 18:59",
       "rewards": [
         "Award"
+      ]
+    },
+    {
+      "title": "Back to Basics Objective",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 6,
+      "expiry": "16 Oct 2026, 18:59",
+      "rewards": [
+        "84 CAM CDM CM R 3 ★ 3 Wieke Kaptein PAC 79 SHO 80 PAS 82 DRI 84 DEF 78 PHY 79 OBJ 84 Wieke Kaptein 150"
       ]
     },
     {
@@ -1026,40 +1026,40 @@
       "title": "FCData footer",
       "category": "Objectif",
       "status": "Actif",
-      "tasks": 4,
+      "tasks": 2,
       "expiry": "20 Nov 2026, 18:59",
       "rewards": [
-        "2x 85+ Gold Players Pack"
+        "Nyrb/Gotham Superfan"
       ]
     },
     {
       "title": "Players",
       "category": "Objectif",
       "status": "Actif",
-      "tasks": 4,
+      "tasks": 2,
       "expiry": "20 Nov 2026, 18:59",
       "rewards": [
-        "2x 85+ Gold Players Pack"
+        "Nyrb/Gotham Superfan"
       ]
     },
     {
       "title": "Tools",
       "category": "Objectif",
       "status": "Actif",
-      "tasks": 4,
+      "tasks": 2,
       "expiry": "20 Nov 2026, 18:59",
       "rewards": [
-        "2x 85+ Gold Players Pack"
+        "Nyrb/Gotham Superfan"
       ]
     },
     {
       "title": "FCData",
       "category": "Objectif",
       "status": "Actif",
-      "tasks": 4,
+      "tasks": 2,
       "expiry": "20 Nov 2026, 18:59",
       "rewards": [
-        "2x 85+ Gold Players Pack"
+        "Nyrb/Gotham Superfan"
       ]
     }
   ]
