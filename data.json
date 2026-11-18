@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T19:46:11.522185+01:00",
+  "updated": "2026-11-18T19:42:32.858220+01:00",
   "source": "https://fcdata.io/objectives",
   "objectives": [
     {
@@ -23,16 +23,6 @@
       ]
     },
     {
-      "title": "Ravenna FC X R10",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 2,
-      "expiry": "20 Nov 2026, 18:59",
-      "rewards": [
-        "Nyrb/Gotham Superfan"
-      ]
-    },
-    {
       "title": "HOF Unleashed Gallery",
       "category": "Objectif",
       "status": "Actif",
@@ -40,36 +30,6 @@
       "expiry": "11 Dec 2026, 18:59",
       "rewards": [
         "Hall of FUT Premium Badge"
-      ]
-    },
-    {
-      "title": "HOF: Unleashed League",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 10,
-      "expiry": "20 Nov 2026, 18:59",
-      "rewards": [
-        "86 RM LM CAM RW ST LW R 5 ★ 4 Aiden McGeady PAC 91 SHO 82 PAS 85 DRI 88 DEF 44 PHY 67 OBJ 86 Aiden McGeady Hall of FUT Premium Badge"
-      ]
-    },
-    {
-      "title": "Ultimate Weekly Play Objective",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 1,
-      "expiry": "20 Nov 2026, 18:59",
-      "rewards": [
-        "Shadow"
-      ]
-    },
-    {
-      "title": "HOF: Unleashed League Bonus",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 4,
-      "expiry": "20 Nov 2026, 18:59",
-      "rewards": [
-        "2x 85+ Gold Players Pack"
       ]
     },
     {
@@ -83,13 +43,43 @@
       ]
     },
     {
-      "title": "Ultimate Scream Evolving - Stage 3 Kit",
+      "title": "Ravenna FC X R10",
       "category": "Objectif",
       "status": "Actif",
-      "tasks": 3,
-      "expiry": "3 Dec 2026, 08:59",
+      "tasks": 2,
+      "expiry": "20 Nov 2026, 18:59",
       "rewards": [
-        "7x 82+ Gold Players Pack 400"
+        "Nyrb/Gotham Superfan"
+      ]
+    },
+    {
+      "title": "HOF: Unleashed League",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 10,
+      "expiry": "20 Nov 2026, 18:59",
+      "rewards": [
+        "86 RM LM CAM RW ST LW R 5 ★ 4 Aiden McGeady PAC 91 SHO 82 PAS 85 DRI 88 DEF 44 PHY 67 OBJ 86 Aiden McGeady Hall of FUT Premium Badge"
+      ]
+    },
+    {
+      "title": "HOF: Unleashed League Bonus",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 4,
+      "expiry": "20 Nov 2026, 18:59",
+      "rewards": [
+        "2x 85+ Gold Players Pack"
+      ]
+    },
+    {
+      "title": "Ultimate Weekly Play Objective",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 1,
+      "expiry": "20 Nov 2026, 18:59",
+      "rewards": [
+        "Shadow"
       ]
     },
     {
@@ -143,6 +133,16 @@
       ]
     },
     {
+      "title": "Ultimate Scream Evolving - Stage 3 Kit",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "3 Dec 2026, 08:59",
+      "rewards": [
+        "7x 82+ Gold Players Pack 400"
+      ]
+    },
+    {
       "title": "Red Bull Wiiings Challenge",
       "category": "Objectif",
       "status": "Actif",
@@ -193,46 +193,6 @@
       ]
     },
     {
-      "title": "Season 2 Daily Knockout Tournament",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 8,
-      "expiry": "3 Dec 2026, 08:59",
-      "rewards": [
-        "85 LB LM L 4 ★ 3 Olga Carmona PAC 88 SHO 76 PAS 80 DRI 82 DEF 82 PHY 77 OBJ 85 Olga Carmona"
-      ]
-    },
-    {
-      "title": "FC Heritage Circuit Completionist",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "3 Dec 2026, 08:59",
-      "rewards": [
-        "84 CB R 3 ★ 3 Jeremiah St. Juste PAC 90 SHO 66 PAS 70 DRI 73 DEF 80 PHY 79 OBJ 84 Jeremiah St. Juste"
-      ]
-    },
-    {
-      "title": "FC Heritage Circuit Kick Off Event",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 4,
-      "expiry": "3 Dec 2026, 08:59",
-      "rewards": [
-        "2x 79+ Gold Players Pack"
-      ]
-    },
-    {
-      "title": "FC Heritage Circuit Semi-Pro Event",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 5,
-      "expiry": "3 Dec 2026, 08:59",
-      "rewards": [
-        "2x 80+ Gold Players Pack"
-      ]
-    },
-    {
       "title": "FC Heritage Circuit Professional Event",
       "category": "Objectif",
       "status": "Actif",
@@ -240,26 +200,6 @@
       "expiry": "3 Dec 2026, 08:59",
       "rewards": [
         "2x 81+ Gold Players Pack"
-      ]
-    },
-    {
-      "title": "Season 2 Daily Knockout Tournament Weekly Play",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 1,
-      "expiry": "3 Dec 2026, 08:59",
-      "rewards": [
-        "Shadow"
-      ]
-    },
-    {
-      "title": "FC Heritage Circuit Tournament",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 7,
-      "expiry": "3 Dec 2026, 08:59",
-      "rewards": [
-        "85 ST CM CAM R 4 ★ 4 Alexis Sánchez PAC 86 SHO 83 PAS 82 DRI 85 DEF 56 PHY 72 OBJ 85 Alexis Sánchez"
       ]
     },
     {
@@ -273,6 +213,46 @@
       ]
     },
     {
+      "title": "FC Heritage Circuit Kick Off Event",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 4,
+      "expiry": "3 Dec 2026, 08:59",
+      "rewards": [
+        "2x 79+ Gold Players Pack"
+      ]
+    },
+    {
+      "title": "FC Heritage Circuit Tournament",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 7,
+      "expiry": "3 Dec 2026, 08:59",
+      "rewards": [
+        "85 ST CM CAM R 4 ★ 4 Alexis Sánchez PAC 86 SHO 83 PAS 82 DRI 85 DEF 56 PHY 72 OBJ 85 Alexis Sánchez"
+      ]
+    },
+    {
+      "title": "Season 2 Daily Knockout Tournament",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 8,
+      "expiry": "3 Dec 2026, 08:59",
+      "rewards": [
+        "85 LB LM L 4 ★ 3 Olga Carmona PAC 88 SHO 76 PAS 80 DRI 82 DEF 82 PHY 77 OBJ 85 Olga Carmona"
+      ]
+    },
+    {
+      "title": "FC Heritage Circuit Semi-Pro Event",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 5,
+      "expiry": "3 Dec 2026, 08:59",
+      "rewards": [
+        "2x 80+ Gold Players Pack"
+      ]
+    },
+    {
       "title": "FC Heritage Circuit World Class Event",
       "category": "Objectif",
       "status": "Actif",
@@ -280,6 +260,26 @@
       "expiry": "3 Dec 2026, 08:59",
       "rewards": [
         "2x 82+ Gold Players Pack"
+      ]
+    },
+    {
+      "title": "Season 2 Daily Knockout Tournament Weekly Play",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 1,
+      "expiry": "3 Dec 2026, 08:59",
+      "rewards": [
+        "Shadow"
+      ]
+    },
+    {
+      "title": "FC Heritage Circuit Completionist",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "3 Dec 2026, 08:59",
+      "rewards": [
+        "84 CB R 3 ★ 3 Jeremiah St. Juste PAC 90 SHO 66 PAS 70 DRI 73 DEF 80 PHY 79 OBJ 84 Jeremiah St. Juste"
       ]
     },
     {
@@ -310,16 +310,6 @@
       "expiry": "1 Oct 2031, 18:59",
       "rewards": [
         "Manager Believe"
-      ]
-    },
-    {
-      "title": "Squad Building Milestone",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "Large Gold Pack"
       ]
     },
     {
@@ -363,6 +353,16 @@
       ]
     },
     {
+      "title": "Draft Milestone",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "Large Gold Pack"
+      ]
+    },
+    {
       "title": "Rivals Mastery",
       "category": "Objectif",
       "status": "Actif",
@@ -370,6 +370,36 @@
       "expiry": "1 Oct 2031, 18:59",
       "rewards": [
         "Large Gold Players Pack"
+      ]
+    },
+    {
+      "title": "Rush Milestone",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 6,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "1 Of 2 78+ Gold Player Pick Coin Boost"
+      ]
+    },
+    {
+      "title": "Transfer Market Milestone",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 4,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "Coin Boost"
+      ]
+    },
+    {
+      "title": "Live Events Milestone",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "1 Of 2 80+ Gold Player Pick"
       ]
     },
     {
@@ -403,6 +433,16 @@
       ]
     },
     {
+      "title": "The Journey Begins",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 4,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "3x Premier League Gold Players Pack Anchor"
+      ]
+    },
+    {
       "title": "Rivals Milestone",
       "category": "Objectif",
       "status": "Actif",
@@ -413,13 +453,13 @@
       ]
     },
     {
-      "title": "Total Football",
+      "title": "First Team Dreams",
       "category": "Objectif",
       "status": "Actif",
       "tasks": 3,
       "expiry": "1 Oct 2031, 18:59",
       "rewards": [
-        "Gold Players Pack 82 ST R 3 ★ 3 Charalampos Kostoulas PAC 85 SHO 79 PAS 68 DRI 81 DEF 50 PHY 79 OBJ 82 Charalampos Kostoulas"
+        "Engine 81 LB RM LM RW LW R 3 ★ 4 Keane Lewis-Potter PAC 81 SHO 74 PAS 78 DRI 82 DEF 76 PHY 70 OBJ 81 Keane Lewis-Potter"
       ]
     },
     {
@@ -433,23 +473,23 @@
       ]
     },
     {
-      "title": "The Journey Begins",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 4,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "3x Premier League Gold Players Pack Anchor"
-      ]
-    },
-    {
-      "title": "Live Events Milestone",
+      "title": "First Owned Mastery",
       "category": "Objectif",
       "status": "Actif",
       "tasks": 3,
       "expiry": "1 Oct 2031, 18:59",
       "rewards": [
-        "1 Of 2 80+ Gold Player Pick"
+        "Giant Gold Pack 10,000 Coins"
+      ]
+    },
+    {
+      "title": "Total Football",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "Gold Players Pack 82 ST R 3 ★ 3 Charalampos Kostoulas PAC 85 SHO 79 PAS 68 DRI 81 DEF 50 PHY 79 OBJ 82 Charalampos Kostoulas"
       ]
     },
     {
@@ -463,13 +503,23 @@
       ]
     },
     {
-      "title": "First Team Dreams",
+      "title": "Moments Stars Milestone",
       "category": "Objectif",
       "status": "Actif",
       "tasks": 3,
       "expiry": "1 Oct 2031, 18:59",
       "rewards": [
-        "Engine 81 LB RM LM RW LW R 3 ★ 4 Keane Lewis-Potter PAC 81 SHO 74 PAS 78 DRI 82 DEF 76 PHY 70 OBJ 81 Keane Lewis-Potter"
+        "Coin Boost 5,000 Coins"
+      ]
+    },
+    {
+      "title": "Squad Building Milestone",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "Large Gold Pack"
       ]
     },
     {
@@ -490,56 +540,6 @@
       "expiry": "1 Oct 2031, 18:59",
       "rewards": [
         "Giant Gold Pack"
-      ]
-    },
-    {
-      "title": "First Owned Mastery",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "Giant Gold Pack 10,000 Coins"
-      ]
-    },
-    {
-      "title": "Draft Milestone",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "Large Gold Pack"
-      ]
-    },
-    {
-      "title": "Moments Stars Milestone",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "Coin Boost 5,000 Coins"
-      ]
-    },
-    {
-      "title": "Rush Milestone",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 6,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "1 Of 2 78+ Gold Player Pick Coin Boost"
-      ]
-    },
-    {
-      "title": "Transfer Market Milestone",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 4,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "Coin Boost"
       ]
     },
     {
@@ -593,16 +593,6 @@
       ]
     },
     {
-      "title": "Silver Bullets Flash Rush",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "4 Nov 2026, 18:59",
-      "rewards": [
-        "100 Ultimate Scream Tokens 150"
-      ]
-    },
-    {
       "title": "Liga BBVA MX - El Día De Muertos",
       "category": "Objectif",
       "status": "Actif",
@@ -610,6 +600,16 @@
       "expiry": "8 Nov 2026, 18:59",
       "rewards": [
         "Liga Bbva Mx - Día De Muertos"
+      ]
+    },
+    {
+      "title": "Silver Bullets Flash Rush",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "4 Nov 2026, 18:59",
+      "rewards": [
+        "100 Ultimate Scream Tokens 150"
       ]
     },
     {
@@ -623,13 +623,13 @@
       ]
     },
     {
-      "title": "Bundesliga x Playmobil Kit",
+      "title": "Liga BBVA MX is back",
       "category": "Objectif",
       "status": "Actif",
       "tasks": 3,
-      "expiry": "13 Nov 2026, 18:59",
+      "expiry": "6 Nov 2026, 18:59",
       "rewards": [
-        "Bundesliga X Playmobil"
+        "âLiga BBVA MX is Back' Pack"
       ]
     },
     {
@@ -643,13 +643,13 @@
       ]
     },
     {
-      "title": "Liga BBVA MX is back",
+      "title": "Bundesliga x Playmobil Kit",
       "category": "Objectif",
       "status": "Actif",
       "tasks": 3,
-      "expiry": "6 Nov 2026, 18:59",
+      "expiry": "13 Nov 2026, 18:59",
       "rewards": [
-        "âLiga BBVA MX is Back' Pack"
+        "Bundesliga X Playmobil"
       ]
     },
     {
@@ -683,16 +683,6 @@
       ]
     },
     {
-      "title": "Ultimate Scream Puzzle Completionist",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 6,
-      "expiry": "6 Nov 2026, 18:59",
-      "rewards": [
-        "100 Ultimate Scream Tokens 100"
-      ]
-    },
-    {
       "title": "Phantom Playgrounds",
       "category": "Objectif",
       "status": "Actif",
@@ -700,6 +690,16 @@
       "expiry": "6 Nov 2026, 18:59",
       "rewards": [
         "100 Ultimate Scream Tokens 50"
+      ]
+    },
+    {
+      "title": "Ultimate Scream Puzzle Completionist",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 6,
+      "expiry": "6 Nov 2026, 18:59",
+      "rewards": [
+        "100 Ultimate Scream Tokens 100"
       ]
     },
     {
@@ -723,6 +723,16 @@
       ]
     },
     {
+      "title": "Future Stars: Milton Delgado",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 4,
+      "expiry": "23 Oct 2026, 18:59",
+      "rewards": [
+        "84 CM CDM R 3 ★ 3 Milton Delgado PAC 82 SHO 67 PAS 77 DRI 84 DEF 82 PHY 81 OBJ 84 Milton Delgado"
+      ]
+    },
+    {
       "title": "No Room for Racism",
       "category": "Objectif",
       "status": "Actif",
@@ -733,13 +743,13 @@
       ]
     },
     {
-      "title": "Future Stars: Milton Delgado",
+      "title": "Ultimate Gauntlet 2",
       "category": "Objectif",
       "status": "Actif",
-      "tasks": 4,
+      "tasks": 10,
       "expiry": "23 Oct 2026, 18:59",
       "rewards": [
-        "84 CM CDM R 3 ★ 3 Milton Delgado PAC 82 SHO 67 PAS 77 DRI 84 DEF 82 PHY 81 OBJ 84 Milton Delgado"
+        "85 CAM ST R 4 ★ 3 Julio César Enciso PAC 85 SHO 83 PAS 84 DRI 87 DEF 39 PHY 66 OBJ 85 Julio César Enciso 84 CAM RM CM RW L 4 ★ 3 Brajan Gruda PAC 84 SHO 79 PAS 80 DRI 89 DEF 40 PHY 74 OBJ 84 Brajan Gruda + 1 more rewards"
       ]
     },
     {
@@ -763,16 +773,6 @@
       ]
     },
     {
-      "title": "Ultimate Gauntlet 2",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 10,
-      "expiry": "23 Oct 2026, 18:59",
-      "rewards": [
-        "85 CAM ST R 4 ★ 3 Julio César Enciso PAC 85 SHO 83 PAS 84 DRI 87 DEF 39 PHY 66 OBJ 85 Julio César Enciso 84 CAM RM CM RW L 4 ★ 3 Brajan Gruda PAC 84 SHO 79 PAS 80 DRI 89 DEF 40 PHY 74 OBJ 84 Brajan Gruda + 1 more rewards"
-      ]
-    },
-    {
       "title": "Season 1 Chase",
       "category": "Objectif",
       "status": "Actif",
@@ -793,16 +793,6 @@
       ]
     },
     {
-      "title": "The Top 500: FC Pro Open Ladder",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 10,
-      "expiry": "17 Oct 2026, 18:59",
-      "rewards": [
-        "Badge Fc Pro Open Trophy"
-      ]
-    },
-    {
       "title": "Future Stars: Claire Hutton",
       "category": "Objectif",
       "status": "Actif",
@@ -810,6 +800,16 @@
       "expiry": "16 Oct 2026, 18:59",
       "rewards": [
         "84 CDM CB CM L 4 ★ 4 Claire Hutton PAC 78 SHO 72 PAS 78 DRI 84 DEF 82 PHY 79 OBJ 84 Claire Hutton"
+      ]
+    },
+    {
+      "title": "The Top 500: FC Pro Open Ladder",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 10,
+      "expiry": "17 Oct 2026, 18:59",
+      "rewards": [
+        "Badge Fc Pro Open Trophy"
       ]
     },
     {
@@ -823,16 +823,6 @@
       ]
     },
     {
-      "title": "Future Stars Celebration",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "16 Oct 2026, 18:59",
-      "rewards": [
-        "Award"
-      ]
-    },
-    {
       "title": "Back to Basics Bonus Objective",
       "category": "Objectif",
       "status": "Actif",
@@ -840,6 +830,16 @@
       "expiry": "16 Oct 2026, 18:59",
       "rewards": [
         "7x 82+ Gold Players Pack"
+      ]
+    },
+    {
+      "title": "Future Stars Celebration",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "16 Oct 2026, 18:59",
+      "rewards": [
+        "Award"
       ]
     },
     {
@@ -883,16 +883,6 @@
       ]
     },
     {
-      "title": "Squad Foundations: Shunsuke Mito",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 5,
-      "expiry": "3 Oct 2026, 18:59",
-      "rewards": [
-        "100 83 LM RM RW LW R 3 ★ 4 Shunsuke Mito PAC 87 SHO 77 PAS 75 DRI 85 DEF 46 PHY 66 OBJ 83 Shunsuke Mito"
-      ]
-    },
-    {
       "title": "Destined for Glory Exhibition",
       "category": "Objectif",
       "status": "Actif",
@@ -900,6 +890,16 @@
       "expiry": "2 Oct 2026, 18:59",
       "rewards": [
         "84 CDM CM R 3 ★ 3 Édouard Michut PAC 79 SHO 70 PAS 81 DRI 84 DEF 76 PHY 77 OBJ 84 Édouard Michut"
+      ]
+    },
+    {
+      "title": "Squad Foundations: Shunsuke Mito",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 5,
+      "expiry": "3 Oct 2026, 18:59",
+      "rewards": [
+        "100 83 LM RM RW LW R 3 ★ 4 Shunsuke Mito PAC 87 SHO 77 PAS 75 DRI 85 DEF 46 PHY 66 OBJ 83 Shunsuke Mito"
       ]
     },
     {
