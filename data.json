@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:30:54.087792+01:00",
+  "updated": "2026-11-22T19:32:46.987362+01:00",
   "source": "https://fcdata.io/objectives",
   "objectives": [
     {
@@ -43,16 +43,6 @@
       ]
     },
     {
-      "title": "Thunderstruck Daily Play Completionist",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 8,
-      "expiry": "4 Dec 2026, 18:59",
-      "rewards": [
-        "100 Thunderstruck Tokens Thunderstruck Premium Badge"
-      ]
-    },
-    {
       "title": "Ultimate Weekly Play Objective Week 2",
       "category": "Objectif",
       "status": "Actif",
@@ -68,6 +58,16 @@
       "status": "Actif",
       "tasks": 8,
       "expiry": "4 Dec 2026, 19:00",
+      "rewards": [
+        "100 Thunderstruck Tokens Thunderstruck Premium Badge"
+      ]
+    },
+    {
+      "title": "Thunderstruck Daily Play Completionist",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 8,
+      "expiry": "4 Dec 2026, 18:59",
       "rewards": [
         "100 Thunderstruck Tokens Thunderstruck Premium Badge"
       ]
@@ -333,56 +333,6 @@
       ]
     },
     {
-      "title": "First Team Dreams",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "Engine 81 LB RM LM RW LW R 3 ★ 4 Keane Lewis-Potter PAC 81 SHO 74 PAS 78 DRI 82 DEF 76 PHY 70 OBJ 81 Keane Lewis-Potter"
-      ]
-    },
-    {
-      "title": "Transfer Market Milestone",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 4,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "Coin Boost"
-      ]
-    },
-    {
-      "title": "Squad Building Milestone",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "Large Gold Pack"
-      ]
-    },
-    {
-      "title": "First Owned Mastery",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "Giant Gold Pack 10,000 Coins"
-      ]
-    },
-    {
-      "title": "Squad Battles Mastery",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "Giant Gold Pack"
-      ]
-    },
-    {
       "title": "Moments Stars Milestone",
       "category": "Objectif",
       "status": "Actif",
@@ -393,73 +343,13 @@
       ]
     },
     {
-      "title": "Rush Milestone",
+      "title": "The Journey Begins",
       "category": "Objectif",
       "status": "Actif",
-      "tasks": 6,
+      "tasks": 4,
       "expiry": "1 Oct 2031, 18:59",
       "rewards": [
-        "1 Of 2 78+ Gold Player Pick Coin Boost"
-      ]
-    },
-    {
-      "title": "Co-Op Milestone",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "5,000 Coins 80+ Gold Player Pack"
-      ]
-    },
-    {
-      "title": "Draft Milestone",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "Large Gold Pack"
-      ]
-    },
-    {
-      "title": "Goals and Assist Mastery",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 6,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "Stadium Trophy Stadium Trophy + 1 more rewards"
-      ]
-    },
-    {
-      "title": "Champions Milestone",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "5,000 Coins 81+ Gold Player Pack"
-      ]
-    },
-    {
-      "title": "Rivals Milestone",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "2x 82+ Gold Players Pack"
-      ]
-    },
-    {
-      "title": "Squad Battles Milestone",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "Large Gold Pack"
+        "3x Premier League Gold Players Pack Anchor"
       ]
     },
     {
@@ -523,13 +413,43 @@
       ]
     },
     {
-      "title": "The Journey Begins",
+      "title": "Squad Battles Milestone",
       "category": "Objectif",
       "status": "Actif",
-      "tasks": 4,
+      "tasks": 3,
       "expiry": "1 Oct 2031, 18:59",
       "rewards": [
-        "3x Premier League Gold Players Pack Anchor"
+        "Large Gold Pack"
+      ]
+    },
+    {
+      "title": "Rivals Milestone",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "2x 82+ Gold Players Pack"
+      ]
+    },
+    {
+      "title": "Champions Milestone",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "5,000 Coins 81+ Gold Player Pack"
+      ]
+    },
+    {
+      "title": "Goals and Assist Mastery",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 6,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "Stadium Trophy Stadium Trophy + 1 more rewards"
       ]
     },
     {
@@ -543,13 +463,53 @@
       ]
     },
     {
-      "title": "Rising Through the Ranks",
+      "title": "Draft Milestone",
       "category": "Objectif",
       "status": "Actif",
-      "tasks": 5,
+      "tasks": 3,
       "expiry": "1 Oct 2031, 18:59",
       "rewards": [
-        "2x 80-83 Premier League Gold Players Pack Transfer Market Access"
+        "Large Gold Pack"
+      ]
+    },
+    {
+      "title": "Co-Op Milestone",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "5,000 Coins 80+ Gold Player Pack"
+      ]
+    },
+    {
+      "title": "Rush Milestone",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 6,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "1 Of 2 78+ Gold Player Pick Coin Boost"
+      ]
+    },
+    {
+      "title": "Transfer Market Milestone",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 4,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "Coin Boost"
+      ]
+    },
+    {
+      "title": "First Team Dreams",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "Engine 81 LB RM LM RW LW R 3 ★ 4 Keane Lewis-Potter PAC 81 SHO 74 PAS 78 DRI 82 DEF 76 PHY 70 OBJ 81 Keane Lewis-Potter"
       ]
     },
     {
@@ -560,6 +520,46 @@
       "expiry": "1 Oct 2031, 18:59",
       "rewards": [
         "1 Of 2 80+ Gold Player Pick"
+      ]
+    },
+    {
+      "title": "Squad Battles Mastery",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "Giant Gold Pack"
+      ]
+    },
+    {
+      "title": "First Owned Mastery",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "Giant Gold Pack 10,000 Coins"
+      ]
+    },
+    {
+      "title": "Rising Through the Ranks",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 5,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "2x 80-83 Premier League Gold Players Pack Transfer Market Access"
+      ]
+    },
+    {
+      "title": "Squad Building Milestone",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "Large Gold Pack"
       ]
     },
     {
@@ -973,16 +973,6 @@
       ]
     },
     {
-      "title": "Destined for Glory Exhibition",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 6,
-      "expiry": "2 Oct 2026, 18:59",
-      "rewards": [
-        "84 CDM CM R 3 ★ 3 Édouard Michut PAC 79 SHO 70 PAS 81 DRI 84 DEF 76 PHY 77 OBJ 84 Édouard Michut"
-      ]
-    },
-    {
       "title": "Squad Foundations: Shunsuke Mito",
       "category": "Objectif",
       "status": "Actif",
@@ -990,6 +980,16 @@
       "expiry": "3 Oct 2026, 18:59",
       "rewards": [
         "100 83 LM RM RW LW R 3 ★ 4 Shunsuke Mito PAC 87 SHO 77 PAS 75 DRI 85 DEF 46 PHY 66 OBJ 83 Shunsuke Mito"
+      ]
+    },
+    {
+      "title": "Destined for Glory Exhibition",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 6,
+      "expiry": "2 Oct 2026, 18:59",
+      "rewards": [
+        "84 CDM CM R 3 ★ 3 Édouard Michut PAC 79 SHO 70 PAS 81 DRI 84 DEF 76 PHY 77 OBJ 84 Édouard Michut"
       ]
     },
     {
@@ -1023,46 +1023,6 @@
       ]
     },
     {
-      "title": "Season 1: Ones to Watch Exhibition",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 7,
-      "expiry": "22 Oct 2026, 08:59",
-      "rewards": [
-        "84 LM RM RW LW R 3 ★ 3 Crysencio Summerville PAC 91 SHO 81 PAS 76 DRI 87 DEF 44 PHY 61 OBJ 84 Crysencio Summerville"
-      ]
-    },
-    {
-      "title": "Ones We Watched Challenge Completionist",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 4,
-      "expiry": "22 Oct 2026, 08:59",
-      "rewards": [
-        "84 RW RM LM LW L 4 ★ 2 Sávio PAC 91 SHO 77 PAS 80 DRI 88 DEF 38 PHY 57 OBJ 84 Sávio"
-      ]
-    },
-    {
-      "title": "Ones We Watched Kick Off Challenge",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 4,
-      "expiry": "22 Oct 2026, 08:59",
-      "rewards": [
-        "2x 75+ Gold Players Pack"
-      ]
-    },
-    {
-      "title": "Ones We Watched Semi-Pro Challenge",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 4,
-      "expiry": "22 Oct 2026, 08:59",
-      "rewards": [
-        "82+ Premier League Gold Player Pack"
-      ]
-    },
-    {
       "title": "Ones We Watched Professional Challenge",
       "category": "Objectif",
       "status": "Actif",
@@ -1093,6 +1053,26 @@
       ]
     },
     {
+      "title": "Ones We Watched Legendary Challenge",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 4,
+      "expiry": "22 Oct 2026, 08:59",
+      "rewards": [
+        "15x 75+ LALIGA Gold Players Pack"
+      ]
+    },
+    {
+      "title": "Ones We Watched Challenge Completionist",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 4,
+      "expiry": "22 Oct 2026, 08:59",
+      "rewards": [
+        "84 RW RM LM LW L 4 ★ 2 Sávio PAC 91 SHO 77 PAS 80 DRI 88 DEF 38 PHY 57 OBJ 84 Sávio"
+      ]
+    },
+    {
       "title": "Season 1: Ones to Watch Exhibition Completionist",
       "category": "Objectif",
       "status": "Actif",
@@ -1103,13 +1083,33 @@
       ]
     },
     {
-      "title": "Ones We Watched Legendary Challenge",
+      "title": "Ones We Watched Kick Off Challenge",
       "category": "Objectif",
       "status": "Actif",
       "tasks": 4,
       "expiry": "22 Oct 2026, 08:59",
       "rewards": [
-        "15x 75+ LALIGA Gold Players Pack"
+        "2x 75+ Gold Players Pack"
+      ]
+    },
+    {
+      "title": "Ones We Watched Semi-Pro Challenge",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 4,
+      "expiry": "22 Oct 2026, 08:59",
+      "rewards": [
+        "82+ Premier League Gold Player Pack"
+      ]
+    },
+    {
+      "title": "Season 1: Ones to Watch Exhibition",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 7,
+      "expiry": "22 Oct 2026, 08:59",
+      "rewards": [
+        "84 LM RM RW LW R 3 ★ 3 Crysencio Summerville PAC 91 SHO 81 PAS 76 DRI 87 DEF 44 PHY 61 OBJ 84 Crysencio Summerville"
       ]
     },
     {
