@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T19:45:51.980101+01:00",
+  "updated": "2026-11-25T19:40:01.708463+01:00",
   "source": "https://fcdata.io/objectives",
   "objectives": [
     {
@@ -43,6 +43,16 @@
       ]
     },
     {
+      "title": "Ultimate Weekly Play Objective Week 2",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 1,
+      "expiry": "27 Nov 2026, 18:59",
+      "rewards": [
+        "Shadow"
+      ]
+    },
+    {
       "title": "Thunder and Lightning",
       "category": "Objectif",
       "status": "Actif",
@@ -63,26 +73,6 @@
       ]
     },
     {
-      "title": "Daily Login Upgrade SBC Completionist",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 8,
-      "expiry": "4 Dec 2026, 19:00",
-      "rewards": [
-        "100 Thunderstruck Tokens Thunderstruck Premium Badge"
-      ]
-    },
-    {
-      "title": "Ultimate Gauntlet 4",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 10,
-      "expiry": "27 Nov 2026, 18:59",
-      "rewards": [
-        "400 Thunderstruck Tokens"
-      ]
-    },
-    {
       "title": "Storm Chaser",
       "category": "Objectif",
       "status": "Actif",
@@ -90,6 +80,16 @@
       "expiry": "4 Dec 2026, 18:59",
       "rewards": [
         "200 Thunderstruck Tokens Thunderstruck Premium Badge"
+      ]
+    },
+    {
+      "title": "Daily Login Upgrade SBC Completionist",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 8,
+      "expiry": "4 Dec 2026, 19:00",
+      "rewards": [
+        "100 Thunderstruck Tokens Thunderstruck Premium Badge"
       ]
     },
     {
@@ -103,23 +103,13 @@
       ]
     },
     {
-      "title": "Ultimate Weekly Play Objective Week 2",
+      "title": "Ultimate Gauntlet 4",
       "category": "Objectif",
       "status": "Actif",
-      "tasks": 1,
+      "tasks": 10,
       "expiry": "27 Nov 2026, 18:59",
       "rewards": [
-        "Shadow"
-      ]
-    },
-    {
-      "title": "Daily Objectives",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 2,
-      "expiry": "26 Nov 2026, 18:59",
-      "rewards": [
-        "10"
+        "400 Thunderstruck Tokens"
       ]
     },
     {
@@ -130,6 +120,16 @@
       "expiry": "3 Dec 2026, 08:59",
       "rewards": [
         "2,000"
+      ]
+    },
+    {
+      "title": "Daily Objectives",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 2,
+      "expiry": "26 Nov 2026, 18:59",
+      "rewards": [
+        "10"
       ]
     },
     {
@@ -163,16 +163,6 @@
       ]
     },
     {
-      "title": "Ultimate Scream Evolving - Stage 2 Kit",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "3 Dec 2026, 08:59",
-      "rewards": [
-        "Ultimate Scream - Kit 3 200"
-      ]
-    },
-    {
       "title": "Ultimate Scream Evolving - Stage 1 Kit",
       "category": "Objectif",
       "status": "Actif",
@@ -200,6 +190,16 @@
       "expiry": "3 Dec 2026, 08:59",
       "rewards": [
         "1,500"
+      ]
+    },
+    {
+      "title": "Ultimate Scream Evolving - Stage 2 Kit",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "3 Dec 2026, 08:59",
+      "rewards": [
+        "Ultimate Scream - Kit 3 200"
       ]
     },
     {
@@ -333,13 +333,63 @@
       ]
     },
     {
-      "title": "Squad Battles Mastery",
+      "title": "Squad Building Milestone",
       "category": "Objectif",
       "status": "Actif",
       "tasks": 3,
       "expiry": "1 Oct 2031, 18:59",
       "rewards": [
-        "Giant Gold Pack"
+        "Large Gold Pack"
+      ]
+    },
+    {
+      "title": "Co-Op Milestone",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "5,000 Coins 80+ Gold Player Pack"
+      ]
+    },
+    {
+      "title": "Draft Milestone",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "Large Gold Pack"
+      ]
+    },
+    {
+      "title": "The Journey Begins",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 4,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "3x Premier League Gold Players Pack Anchor"
+      ]
+    },
+    {
+      "title": "Transfer Market Milestone",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 4,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "Coin Boost"
+      ]
+    },
+    {
+      "title": "Live Events Milestone",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "1 Of 2 80+ Gold Player Pick"
       ]
     },
     {
@@ -353,13 +403,23 @@
       ]
     },
     {
-      "title": "Rush Milestone",
+      "title": "Squad Battles Mastery",
       "category": "Objectif",
       "status": "Actif",
-      "tasks": 6,
+      "tasks": 3,
       "expiry": "1 Oct 2031, 18:59",
       "rewards": [
-        "1 Of 2 78+ Gold Player Pick Coin Boost"
+        "Giant Gold Pack"
+      ]
+    },
+    {
+      "title": "Champions Mastery",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "50,000 Coins 86+ Gold Player Pack + 2 more rewards"
       ]
     },
     {
@@ -380,26 +440,6 @@
       "expiry": "1 Oct 2031, 18:59",
       "rewards": [
         "Large Gold Pack"
-      ]
-    },
-    {
-      "title": "Live Events Milestone",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "1 Of 2 80+ Gold Player Pick"
-      ]
-    },
-    {
-      "title": "The Journey Begins",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 4,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "3x Premier League Gold Players Pack Anchor"
       ]
     },
     {
@@ -463,16 +503,6 @@
       ]
     },
     {
-      "title": "Transfer Market Milestone",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 4,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "Coin Boost"
-      ]
-    },
-    {
       "title": "Rising Through the Ranks",
       "category": "Objectif",
       "status": "Actif",
@@ -493,36 +523,6 @@
       ]
     },
     {
-      "title": "Draft Milestone",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "Large Gold Pack"
-      ]
-    },
-    {
-      "title": "Champions Milestone",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "5,000 Coins 81+ Gold Player Pack"
-      ]
-    },
-    {
-      "title": "Co-Op Milestone",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "5,000 Coins 80+ Gold Player Pack"
-      ]
-    },
-    {
       "title": "Gallery Milestone",
       "category": "Objectif",
       "status": "Actif",
@@ -530,16 +530,6 @@
       "expiry": "1 Oct 2031, 18:59",
       "rewards": [
         "Gallery Excellence"
-      ]
-    },
-    {
-      "title": "Squad Building Milestone",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "1 Oct 2031, 18:59",
-      "rewards": [
-        "Large Gold Pack"
       ]
     },
     {
@@ -553,13 +543,23 @@
       ]
     },
     {
-      "title": "Champions Mastery",
+      "title": "Rush Milestone",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 6,
+      "expiry": "1 Oct 2031, 18:59",
+      "rewards": [
+        "1 Of 2 78+ Gold Player Pick Coin Boost"
+      ]
+    },
+    {
+      "title": "Champions Milestone",
       "category": "Objectif",
       "status": "Actif",
       "tasks": 3,
       "expiry": "1 Oct 2031, 18:59",
       "rewards": [
-        "50,000 Coins 86+ Gold Player Pack + 2 more rewards"
+        "5,000 Coins 81+ Gold Player Pack"
       ]
     },
     {
@@ -573,13 +573,13 @@
       ]
     },
     {
-      "title": "Ravenna FC X R10",
+      "title": "HOF: Unleashed League Bonus",
       "category": "Objectif",
       "status": "Actif",
-      "tasks": 2,
+      "tasks": 4,
       "expiry": "20 Nov 2026, 18:59",
       "rewards": [
-        "Nyrb/Gotham Superfan"
+        "2x 85+ Gold Players Pack"
       ]
     },
     {
@@ -603,13 +603,13 @@
       ]
     },
     {
-      "title": "HOF: Unleashed League Bonus",
+      "title": "Ravenna FC X R10",
       "category": "Objectif",
       "status": "Actif",
-      "tasks": 4,
+      "tasks": 2,
       "expiry": "20 Nov 2026, 18:59",
       "rewards": [
-        "2x 85+ Gold Players Pack"
+        "Nyrb/Gotham Superfan"
       ]
     },
     {
@@ -663,16 +663,6 @@
       ]
     },
     {
-      "title": "Ultimate Gauntlet 3",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 10,
-      "expiry": "13 Nov 2026, 18:59",
-      "rewards": [
-        "85 CM CDM CAM R 3 ★ 4 Aleix García PAC 80 SHO 78 PAS 86 DRI 86 DEF 82 PHY 80 OBJ 85 Aleix García"
-      ]
-    },
-    {
       "title": "Road to the Knockouts Event",
       "category": "Objectif",
       "status": "Actif",
@@ -680,6 +670,16 @@
       "expiry": "20 Nov 2026, 18:59",
       "rewards": [
         "84 CAM CM LM LW R 4 ★ 4 Emiliano Buendía PAC 82 SHO 84 PAS 84 DRI 86 DEF 70 PHY 74 OBJ 84 Emiliano Buendía"
+      ]
+    },
+    {
+      "title": "Ultimate Gauntlet 3",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 10,
+      "expiry": "13 Nov 2026, 18:59",
+      "rewards": [
+        "85 CM CDM CAM R 3 ★ 4 Aleix García PAC 80 SHO 78 PAS 86 DRI 86 DEF 82 PHY 80 OBJ 85 Aleix García"
       ]
     },
     {
@@ -693,16 +693,6 @@
       ]
     },
     {
-      "title": "Liga BBVA MX - El Día De Muertos",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "8 Nov 2026, 18:59",
-      "rewards": [
-        "Liga Bbva Mx - Día De Muertos"
-      ]
-    },
-    {
       "title": "Silver Bullets Flash Rush",
       "category": "Objectif",
       "status": "Actif",
@@ -713,6 +703,16 @@
       ]
     },
     {
+      "title": "Liga BBVA MX - El Día De Muertos",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "8 Nov 2026, 18:59",
+      "rewards": [
+        "Liga Bbva Mx - Día De Muertos"
+      ]
+    },
+    {
       "title": "Hannibal's Haunting",
       "category": "Objectif",
       "status": "Actif",
@@ -720,16 +720,6 @@
       "expiry": "7 Nov 2026, 18:59",
       "rewards": [
         "84 CAM CM R 4 ★ 3 Hannibal PAC 84 SHO 82 PAS 99 DRI 86 DEF 73 PHY 80 OBJ 84 Hannibal Badge + 2 more rewards"
-      ]
-    },
-    {
-      "title": "Bundesliga x Playmobil Kit",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "13 Nov 2026, 18:59",
-      "rewards": [
-        "Bundesliga X Playmobil"
       ]
     },
     {
@@ -750,6 +740,16 @@
       "expiry": "6 Nov 2026, 18:59",
       "rewards": [
         "âLiga BBVA MX is Back' Pack"
+      ]
+    },
+    {
+      "title": "Bundesliga x Playmobil Kit",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "13 Nov 2026, 18:59",
+      "rewards": [
+        "Bundesliga X Playmobil"
       ]
     },
     {
@@ -853,16 +853,6 @@
       ]
     },
     {
-      "title": "Future Stardom",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 5,
-      "expiry": "23 Oct 2026, 18:59",
-      "rewards": [
-        "10x 80+ Gold Players Pack"
-      ]
-    },
-    {
       "title": "Ultimate Gauntlet 2",
       "category": "Objectif",
       "status": "Actif",
@@ -880,6 +870,16 @@
       "expiry": "22 Oct 2026, 08:59",
       "rewards": [
         "500"
+      ]
+    },
+    {
+      "title": "Future Stardom",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 5,
+      "expiry": "23 Oct 2026, 18:59",
+      "rewards": [
+        "10x 80+ Gold Players Pack"
       ]
     },
     {
@@ -923,16 +923,6 @@
       ]
     },
     {
-      "title": "Future Stars Celebration",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 3,
-      "expiry": "16 Oct 2026, 18:59",
-      "rewards": [
-        "Award"
-      ]
-    },
-    {
       "title": "Back to Basics Bonus Objective",
       "category": "Objectif",
       "status": "Actif",
@@ -940,6 +930,16 @@
       "expiry": "16 Oct 2026, 18:59",
       "rewards": [
         "7x 82+ Gold Players Pack"
+      ]
+    },
+    {
+      "title": "Future Stars Celebration",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 3,
+      "expiry": "16 Oct 2026, 18:59",
+      "rewards": [
+        "Award"
       ]
     },
     {
@@ -993,16 +993,6 @@
       ]
     },
     {
-      "title": "Squad Foundations: Shunsuke Mito",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 5,
-      "expiry": "3 Oct 2026, 18:59",
-      "rewards": [
-        "100 83 LM RM RW LW R 3 ★ 4 Shunsuke Mito PAC 87 SHO 77 PAS 75 DRI 85 DEF 46 PHY 66 OBJ 83 Shunsuke Mito"
-      ]
-    },
-    {
       "title": "Destined for Glory Exhibition",
       "category": "Objectif",
       "status": "Actif",
@@ -1010,6 +1000,16 @@
       "expiry": "2 Oct 2026, 18:59",
       "rewards": [
         "84 CDM CM R 3 ★ 3 Édouard Michut PAC 79 SHO 70 PAS 81 DRI 84 DEF 76 PHY 77 OBJ 84 Édouard Michut"
+      ]
+    },
+    {
+      "title": "Squad Foundations: Shunsuke Mito",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 5,
+      "expiry": "3 Oct 2026, 18:59",
+      "rewards": [
+        "100 83 LM RM RW LW R 3 ★ 4 Shunsuke Mito PAC 87 SHO 77 PAS 75 DRI 85 DEF 46 PHY 66 OBJ 83 Shunsuke Mito"
       ]
     },
     {
@@ -1043,16 +1043,6 @@
       ]
     },
     {
-      "title": "Ones We Watched World Class Challenge",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 4,
-      "expiry": "22 Oct 2026, 08:59",
-      "rewards": [
-        "5x 78+ Premier League Gold Players Pack"
-      ]
-    },
-    {
       "title": "Ones We Watched Legendary Challenge",
       "category": "Objectif",
       "status": "Actif",
@@ -1063,6 +1053,36 @@
       ]
     },
     {
+      "title": "Ones We Watched Kick Off Challenge",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 4,
+      "expiry": "22 Oct 2026, 08:59",
+      "rewards": [
+        "2x 75+ Gold Players Pack"
+      ]
+    },
+    {
+      "title": "Season 1: Ones to Watch Exhibition Completionist",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 4,
+      "expiry": "22 Oct 2026, 08:59",
+      "rewards": [
+        "83 CB R 2 ★ 3 Ousmane Diomande PAC 82 SHO 29 PAS 55 DRI 72 DEF 82 PHY 89 OBJ 83 Ousmane Diomande"
+      ]
+    },
+    {
+      "title": "Season 1: Ones to Watch Exhibition",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 7,
+      "expiry": "22 Oct 2026, 08:59",
+      "rewards": [
+        "84 LM RM RW LW R 3 ★ 3 Crysencio Summerville PAC 91 SHO 81 PAS 76 DRI 87 DEF 44 PHY 61 OBJ 84 Crysencio Summerville"
+      ]
+    },
+    {
       "title": "Season 1: Ones to Watch Exhibition Weekly Play",
       "category": "Objectif",
       "status": "Actif",
@@ -1070,6 +1090,26 @@
       "expiry": "22 Oct 2026, 08:59",
       "rewards": [
         "Consumable"
+      ]
+    },
+    {
+      "title": "Ones We Watched World Class Challenge",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 4,
+      "expiry": "22 Oct 2026, 08:59",
+      "rewards": [
+        "5x 78+ Premier League Gold Players Pack"
+      ]
+    },
+    {
+      "title": "Ones We Watched Challenge Completionist",
+      "category": "Objectif",
+      "status": "Actif",
+      "tasks": 4,
+      "expiry": "22 Oct 2026, 08:59",
+      "rewards": [
+        "84 RW RM LM LW L 4 ★ 2 Sávio PAC 91 SHO 77 PAS 80 DRI 88 DEF 38 PHY 57 OBJ 84 Sávio"
       ]
     },
     {
@@ -1090,46 +1130,6 @@
       "expiry": "22 Oct 2026, 08:59",
       "rewards": [
         "82+ Premier League Gold Player Pack"
-      ]
-    },
-    {
-      "title": "Ones We Watched Kick Off Challenge",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 4,
-      "expiry": "22 Oct 2026, 08:59",
-      "rewards": [
-        "2x 75+ Gold Players Pack"
-      ]
-    },
-    {
-      "title": "Season 1: Ones to Watch Exhibition",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 7,
-      "expiry": "22 Oct 2026, 08:59",
-      "rewards": [
-        "84 LM RM RW LW R 3 ★ 3 Crysencio Summerville PAC 91 SHO 81 PAS 76 DRI 87 DEF 44 PHY 61 OBJ 84 Crysencio Summerville"
-      ]
-    },
-    {
-      "title": "Season 1: Ones to Watch Exhibition Completionist",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 4,
-      "expiry": "22 Oct 2026, 08:59",
-      "rewards": [
-        "83 CB R 2 ★ 3 Ousmane Diomande PAC 82 SHO 29 PAS 55 DRI 72 DEF 82 PHY 89 OBJ 83 Ousmane Diomande"
-      ]
-    },
-    {
-      "title": "Ones We Watched Challenge Completionist",
-      "category": "Objectif",
-      "status": "Actif",
-      "tasks": 4,
-      "expiry": "22 Oct 2026, 08:59",
-      "rewards": [
-        "84 RW RM LM LW L 4 ★ 2 Sávio PAC 91 SHO 77 PAS 80 DRI 88 DEF 38 PHY 57 OBJ 84 Sávio"
       ]
     },
     {
